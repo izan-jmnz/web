@@ -1,0 +1,8 @@
+<!ELEMENT inventario (mesas, delantales)>
+<!ELEMENT mesas (ubicacion, usuario, marcamesa)>
+<!ELEMENT delantales (ubicacion, usuario, marcadelantales)>
+
+<!ELEMENT ubicacion (#PCDATA)>
+<!ELEMENT usuario (#PCDATA)>
+<!ELEMENT marcamesa (#PCDATA)>
+<!ELEMENT marcadelantales (#PCDATA)>

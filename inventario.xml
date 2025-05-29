@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<inventario>
+    <mesas>
+        <ubicacion>proveedor de mesas</ubicacion>
+        <usuario>izan jimenez rodriguez</usuario>
+        <marcamesa>inou</marcamesa>
+    </mesas>
+    <delantales>
+        <ubicacion>el corteingles</ubicacion>
+        <usuario>izan jimenez rodriguez</usuario>
+        <marcadelantales>qooqer</marcadelantales>
+    </delantales>
+</inventario>

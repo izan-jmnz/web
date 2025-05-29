@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogo.xsl"?>
+<catalogo>
+  <producto>
+    <nombre>tabla de embutidos</nombre>
+    <precio>15</precio>
+  </producto>
+  <producto>
+    <nombre>menu</nombre>
+    <precio>15</precio>
+  </producto>
+  <producto>
+    <nombre>tercio estrella galicia</nombre>
+    <precio>2,50</precio>
+  </producto>
+</catalogo>
